@@ -1,0 +1,9 @@
+{
+  "name": "breakfast-food-click-game",
+  "version": "1.0.0",
+  "description": "\"A memory game using React.\"",
+  "main": "index.js",
+  "repository": "https://github.com/mahramus/clicky-game.git",
+  "author": "Anthony Mahramus",
+  "license": "MIT"
+}
