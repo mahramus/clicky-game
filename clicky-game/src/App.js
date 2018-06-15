@@ -1,8 +1,25 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import breakfastList from './breakfast.json';
+
+
+
+
 
 class App extends Component {
+
+  state = {
+    score: 0,
+    topScore: 0,
+    clickStatus: "",
+    results: "breakfastList"
+  };
+
+componentDidMount = () => {
+        this.shuffle(this.state.results);
+    };
+
   render() {
     return (
       <div className="App">
@@ -16,6 +33,8 @@ class App extends Component {
       </div>
     );
   }
-}
+
+
+
 
 export default App;
