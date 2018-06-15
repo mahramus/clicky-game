@@ -44,7 +44,12 @@ class App extends Component {
           <h1 className="App-title">Click On Breakfast Food</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          The rules are simple: click a card, get a point. Click a card you've already clicked, lose a point.
+          </p>
+          <p>
+        Try and build your score as quickly as possible while enjoying sumptuous images of breakfast dishes.
+  
+  
         </p>
       </div>
     );
