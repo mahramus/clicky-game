@@ -12,3 +12,4 @@ This React app takes advantage of:
 - Array Randomization
 - Score Iteration
 - React Router
+- Test Technology
