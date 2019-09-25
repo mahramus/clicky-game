@@ -13,3 +13,4 @@ This React app takes advantage of:
 - Score Iteration
 - React Router
 - Test Technology
+- Test Technology pt. 2
