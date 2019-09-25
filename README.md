@@ -14,3 +14,4 @@ This React app takes advantage of:
 - React Router
 - Test Technology
 - Test Technology pt. 2
+- Test Technology pt. 3
